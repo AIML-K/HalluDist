@@ -1,0 +1,12 @@
+scikit-learn
+matplotlib
+pandas
+numpy
+scipy
+transformers
+sentencepiece
+summac
+string2string
+bert_score
+rouge
+nltk
