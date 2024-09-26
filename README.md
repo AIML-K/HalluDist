@@ -2,7 +2,7 @@
 
 ![fig1](https://github.com/AIML-K/HalluDist/blob/main/plots/fig1.png)
 
-(Paper information will be updated soon)
+[Paper](https://arxiv.org/abs/2409.16658)
 
 ## Abstract
 
